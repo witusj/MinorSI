@@ -1,0 +1,22 @@
+name: "HAN Minor Smart Industry"
+output_dir: "."
+navbar:
+  title: "HAN Minor Smart Industry"
+  right:
+    - text: "Welkom"
+      icon: fa-smile-o
+      href: index.html
+    - text: "Doel"
+      icon: fa-flag-checkered
+      href: 1-doel.html
+    - text: "Onderwijs"
+      icon: fa-graduation-cap
+      href: 2-onderwijs.html
+    - text: "Organisatie"
+      icon: fa-group
+      href: 3-organisatie.html
+output:
+  html_document:
+    theme: united
+    highlight: textmate
+    

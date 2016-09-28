@@ -1,0 +1,12 @@
+---
+title: "Welkom"
+output: html_document
+---
+
+In 2014 is door de overheid de [Actieagenda Smart Industry](http://www.smartindustry.nl/site/assets/files/1737/smart-industry-actieagenda-lr.pdf) opgesteld. Het doel van de agenda is het Nederlands bedrijfsleven te mobileren en tot de kopgroep in de wereld te laten horen op het gebied van slimme productie. 
+<br>
+![](images/smart-ind.jpg)
+<br>
+*Witek ten Hove*<br>
+*Coördinator Minor Smart Industry*<br>
+*Hogeschool Arnhem en Nijmegen*
