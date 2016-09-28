@@ -3,7 +3,7 @@ title: "Welkom"
 output: html_document
 ---
 
-Technologieën op het gebied van Robotics, Data Analytics, Machine Learning, enz. zijn inmiddels volwassen geworden en grotendeels mainstream als het gaat om toepassing. De uitdaging voor de meeste organisaties ligt in de vertaling van de beloftes die deze innovaties bieden naar daadwerkelijke economische en maatschappelijke waarde. Door de hele waardeketen zodanig in te richten dat de nieuwe technologieën optimaal kunnen bijdragen aan winsten op het gebied van efficiëntie en kwaliteit, ontstaat Smart Industry.
+Technologieën op het gebied van Robotics, Data Analytics, Machine Learning, enz. zijn inmiddels volwassen geworden en grotendeels mainstream als het gaat om toepassing. De uitdaging voor de meeste organisaties ligt in de vertaling van de beloftes die deze innovaties bieden naar daadwerkelijke economische en maatschappelijke waarde. Door de hele waardeketen zodanig in te richten dat de nieuwe technologieën optimaal kunnen bijdragen aan winsten op het gebied van efficiëntie en kwaliteit, ontstaat **Smart Industry**.
 
 <br>
 
