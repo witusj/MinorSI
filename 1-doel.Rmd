@@ -9,7 +9,7 @@ We hebben bij de inrichting van de minor rekening gehouden met de verschillende 
 
 In ieder geval zul je zoveel mogelijk leren via eigen observatie en ervaring (lees: DOEN). De minor is ontwikkeld in nauwe samenwerking met organisaties uit het werkveld (bedrijven en vakexperts). Deze partners zullen ook actief deelnemen aan de uitvoering via workshops, hackathons, gastcolleges, etc. op locatie. Aan het einde van de module kun je in samenwerking met professionals uit verschillende disciplines een SMART-oplossing vertalen, ontwikkelen en uitvoeren voor een organisatie.
 
-Hieronder vind je een overzicht van thema's die gerelateerd zijn aan het begrip Smart Industry. Wellicht dat je een aantal onderwerpen tijdens je opleiding al een keer hebt behandeld. In principe hoef je voor deze thema's niet nogmaals onderwijs te volgen en ga je je concentreren op zaken die nieuw voor je zijn.
+Hieronder vind je een overzicht van thema's die je zult tegenkomen tijdens de minor. Wellicht dat je een aantal onderwerpen tijdens je opleiding al een keer hebt behandeld. In principe hoef je voor deze thema's niet nogmaals onderwijs te volgen en ga je je concentreren op zaken die nieuw voor je zijn.
 
 # Thema's {.tabset .tabset-fade}
 
