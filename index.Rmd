@@ -3,7 +3,8 @@ title: "Welkom"
 output: html_document
 ---
 
-In 2014 is door de overheid de [Actieagenda Smart Industry](http://www.smartindustry.nl/site/assets/files/1737/smart-industry-actieagenda-lr.pdf) opgesteld. Het doel van de agenda is het Nederlands bedrijfsleven te mobileren en tot de kopgroep in de wereld te laten horen op het gebied van slimme productie. 
+Technologieën op het gebied van Robotics, Data Analytics, Machine Learning, enz. zijn inmiddels volwassen geworden en grotendeels mainstream als het gaat om toepassing. De uitdaging voor de meeste organisaties ligt in de vertaling van de beloftes die deze innovaties bieden naar daadwerkelijke economische en maatschappelijke waarde. Door de hele waardeketen zodanig in te richten dat de nieuwe technologieën optimaal kunnen bijdragen aan winsten op het gebied van efficiëntie en kwaliteit, ontstaat Smart Industry.
+
 <br>
 
 <img src="images/smart-ind.jpg" width="600" height="514" alt="Smart-Industry" usemap="#smartind">
@@ -20,6 +21,9 @@ In 2014 is door de overheid de [Actieagenda Smart Industry](http://www.smartindu
     <area alt="" title="Network centric" href="https://youtu.be/tocP6u3X8Ng" target="_blank" shape="circle" coords="290,257,45" />
 </map>
 <br>
+
+Bron: [Actieagenda SMART INDUSTRY 2014](http://ec2-52-30-100-113.eu-west-1.compute.amazonaws.com/pluginfile.php/310/mod_resource/content/1/smart-industry-actieagenda-lr.pdf)
+
 *Witek ten Hove*<br>
 *Coördinator Minor Smart Industry*<br>
 *Hogeschool Arnhem en Nijmegen*
