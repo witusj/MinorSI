@@ -6,7 +6,7 @@ navbar:
     - text: "Welkom"
       icon: fa-smile-o
       href: index.html
-    - text: "Doel"
+    - text: "Doelen"
       icon: fa-flag-checkered
       href: 1-doel.html
     - text: "Onderwijs"
