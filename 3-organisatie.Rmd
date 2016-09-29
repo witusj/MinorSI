@@ -9,6 +9,8 @@ knitr::opts_chunk$set(echo = FALSE)
 source("content.R")
 ```
 ![](images/hogeschool-arnhem-en-nijmegen.jpg)<br>
+
+### Neem voor meer informatie contact op met:
 Witek ten Hove<br>
 @: witek.tenhove@han.nl<br>
 M: +31 630179522<br>
