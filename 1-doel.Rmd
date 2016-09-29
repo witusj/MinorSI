@@ -12,7 +12,7 @@ We hebben bij de inrichting van de minor rekening gehouden met de verschillende 
 # Thema's {.tabset .tabset-fade}
 
 ## Thema: Smart Start
-Iedere deelnemer krijgt een inleiding tot Smart industry. Na afronding van dit traject kun he de mate van volwassenheid van 'Smartness' van een organisatie beschrijven in een business case.
+Iedere deelnemer krijgt een inleiding tot Smart industry. Na afronding van dit traject kun he de mate van 'Smartness' van een organisatie beschrijven in een business case.
 
 #### Feature 1: Customer intimacy
 > "De ‘customer intimacy’ neemt toe. Niet alleen
