@@ -12,7 +12,7 @@ We hebben bij de inrichting van de minor rekening gehouden met de verschillende 
 # Thema's {.tabset .tabset-fade}
 
 ## Thema: Smart Start
-Iedere deelnemer krijgt een inleiding tot Smart industry. Na afronding van dit traject kun he de mate van 'Smartness' van een organisatie beschrijven in een business case.
+Iedere deelnemer krijgt een inleiding tot Smart industry. Na afronding van dit traject kun je de mate van 'Smartness' van een organisatie beschrijven in een business case.
 
 #### Feature 1: Customer intimacy
 > "De ‘customer intimacy’ neemt toe. Niet alleen
@@ -80,7 +80,7 @@ Uit: [Actieagenda SMART INDUSTRY 2014](http://ec2-52-30-100-113.eu-west-1.comput
 <br>
 
 ## Thema: Smart Technology
-Dit is gericht op studenten ICT of met een bedrijfskundige / -economische opleiding die zich nog weinig of nooit verdiept hebben in techniek. Na afronding van dit traject ben je in staat om nieuwe technologieën op het gebied van IoT, Robotica en 3D-printen toe te passen op een praktijkcasus en in een business context plaatsen.
+Dit is gericht op studenten ICT of met een bedrijfskundige / -economische opleiding die zich beperkt of nooit verdiept hebben in techniek. Na afronding van dit traject ben je in staat om nieuwe technologieën op het gebied van IoT, Robotica en 3D-printen toe te passen op een praktijkcasus en in een business context plaatsen.
 
 #### Feature 1: IoT
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HPRURtORnis" frameborder="0" allowfullscreen></iframe>
@@ -96,7 +96,7 @@ Dit is gericht op studenten ICT of met een bedrijfskundige / -economische opleid
 
 
 ## Thema: Smart Connection
-Dit is gericht op studenten Techniek of met een bedrijfskundige / -economische opleiding die zich nog weinig of nooit verdiept hebben in ICT. Na afronding van dit traject kun je nieuwe technologieën op het gebied van web, data, cloud en AI toepassen op een praktijkcasus en in een business context plaatsen.
+Dit is gericht op studenten Techniek of met een bedrijfskundige / -economische opleiding die zich beperkt of nooit verdiept hebben in ICT. Na afronding van dit traject kun je nieuwe technologieën op het gebied van web, data, cloud en AI toepassen op een praktijkcasus en in een business context plaatsen.
 
 #### Feature 1: Web Technologies
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IbYOYQ-uwj4" frameborder="0" allowfullscreen></iframe>
@@ -118,7 +118,7 @@ Dit is gericht op studenten Techniek of met een bedrijfskundige / -economische o
 
 
 ## Thema: Smart Business
-Dit is gericht op studenten Techniek of ICT die zich nog weinig of nooit verdiept hebben in de bedrijfskundige omgeving waarin ze straks zullen functioneren. Na afronding van dit traject kun je voor een opdrachtgever bedrijfsprocessen optimaliseren volgens Smart Industry criteria en de implicaties voor het gehele business model beschrijven.
+Dit is gericht op studenten Techniek of ICT die zich beperk of nooit verdiept hebben in de bedrijfskundige omgeving waarin ze straks zullen functioneren. Na afronding van dit traject kun je voor een opdrachtgever bedrijfsprocessen optimaliseren volgens Smart Industry criteria en de implicaties voor het gehele business model beschrijven.
 
 #### Feature 1: De maatschappelijke en zakelijke uitdagingen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9hkHAc1nku4" frameborder="0" allowfullscreen></iframe><br>
