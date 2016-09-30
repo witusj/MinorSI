@@ -18,7 +18,7 @@ Technologieën op het gebied van Robotics, Data Analytics, Machine Learning, enz
     <area alt="" title="Klik hier voor Manufacturing technologies" href="https://youtu.be/pZNTzkAR1Ho" target="_blank" shape="poly" coords="176,257,236,260,251,225,283,208,315,213,345,163,288,147,233,163,190,205" />
     <area alt="" title="Klik hier voor Digitization" href="https://youtu.be/eve8DkkVdhI" target="_blank" shape="poly" coords="237,262,248,292,277,309,315,305,345,355,287,373,231,356,194,316,178,265" />
     <area alt="" title="Klik hier voor Network centric" href="https://youtu.be/BWgZXhm3WYM" target="_blank" shape="poly" coords="318,214,337,240,335,278,317,303,347,353,385,319,402,256,386,203,348,168" />
-    <area alt="" title="Klik hier voor Smart Indsutry" href="https://youtu.be/tocP6u3X8Ng" target="_blank" shape="circle" coords="290,257,45" />
+    <area alt="" title="Klik hier voor Smart Industry" href="https://youtu.be/tocP6u3X8Ng" target="_blank" shape="circle" coords="290,257,45" />
 </map>
 <br>
 
