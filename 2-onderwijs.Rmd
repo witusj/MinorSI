@@ -5,7 +5,7 @@ output: html_document
 
 Voor deze minor zal gebruik worden gemaakt van een online leeromgeving. De leeromgeving biedt faciliteiten om kennis op te doen (webcolleges, wiki's en literatuur), te oefenen (casussen en quizzes), de voortgang te volgen (toetsen en opdrachten) en te communiceren (fora en blogs). Je kunt dus voor een heel groot gedeelte bepalen waar en wanneer je wilt studeren.
 
-Zoals eerder beschreven speelt kennismaking met de praktijk van Smart Industry een grote rol binnen de minor. Er zal veel gelegenheid worden geboden om de opgedane kennis te toetsen aan de realiteit. Opdrachten zullen meestal in teams worden uitgevoerd voor en bij opdrachtgevers uit het bedrijfsleven. Er zal echter ook voldoende ruimte zijn om eigen interesses te volgen en individueel aan vraagstukken te werken.<br>
+Zoals eerder beschreven speelt kennismaking met de praktijk van Smart Industry een prominente rol binnen de minor. Er zal veel gelegenheid worden geboden om de opgedane kennis te toetsen aan de realiteit. Opdrachten zullen meestal in teams worden uitgevoerd voor en bij opdrachtgevers uit het bedrijfsleven. Er zal echter ook voldoende ruimte zijn om eigen interesses te volgen en individueel aan vraagstukken te werken.<br>
 
 ![](images/dev-team.jpg)<br>
 

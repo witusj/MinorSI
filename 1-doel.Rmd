@@ -3,7 +3,7 @@ title: "Doelen"
 output: html_document
 ---
 
-Gedurende 19 à 20 weken ga je met partners uit het bedrijfsleven vraagstukken verzamelen op het gebied van Smart Industry en in teamverband bouwen aan oplossingen. Je gaat een brede blik gaat ontwikkelen op de mogelijkheden en uitdagingen die Smart Industry biedt voor organisaties.
+Gedurende 19 à 20 weken ga je met partners uit het bedrijfsleven vraagstukken verzamelen op het gebied van Smart Industry en in teamverband bouwen aan oplossingen. Je gaat een brede blik ontwikkelen op de mogelijkheden en uitdagingen die Smart Industry biedt voor organisaties.
 
 Je zult zoveel mogelijk leren via eigen observatie en ervaring (lees: DOEN). De minor is ontwikkeld in nauwe samenwerking met organisaties uit het werkveld (bedrijven en vakexperts). Deze partners zullen ook actief deelnemen aan de uitvoering via workshops, hackathons, gastcolleges, etc. op locatie. Aan het einde van de module kun je in samenwerking met professionals uit verschillende disciplines een SMART-oplossing vertalen, ontwikkelen en uitvoeren voor een organisatie.
 
@@ -80,7 +80,7 @@ Uit: [Actieagenda SMART INDUSTRY 2014](http://ec2-52-30-100-113.eu-west-1.comput
 <br>
 
 ## Thema: Smart Technology
-Dit traject is gericht op studenten ICT of met een bedrijfskundige / -economische opleiding die zich beperkt of nooit verdiept hebben in techniek. Na afronding van dit traject ben je in staat om nieuwe technologieën op het gebied van IoT, Robotica en 3D-printen toe te passen op een praktijkcasus en in een business context plaatsen.
+Dit traject is gericht op studenten ICT of van een bedrijfskundige / -economische opleiding die zich beperkt of nooit verdiept hebben in techniek. Na afronding van dit traject ben je in staat om nieuwe technologieën op het gebied van IoT, Robotica en 3D-printen toe te passen op een praktijkcasus en in een business context plaatsen.
 
 #### Feature 1: IoT
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HPRURtORnis" frameborder="0" allowfullscreen></iframe>
@@ -96,7 +96,7 @@ Dit traject is gericht op studenten ICT of met een bedrijfskundige / -economisch
 
 
 ## Thema: Smart Connection
-Dit traject is gericht op studenten Techniek of met een bedrijfskundige / -economische opleiding die zich beperkt of nooit verdiept hebben in ICT. Na afronding van dit traject kun je nieuwe technologieën op het gebied van web, data, cloud en AI toepassen op een praktijkcasus en in een business context plaatsen.
+Dit traject is gericht op studenten Techniek of van een bedrijfskundige / -economische opleiding die zich beperkt of nooit verdiept hebben in ICT. Na afronding van dit traject kun je nieuwe technologieën op het gebied van web, data, cloud en AI toepassen op een praktijkcasus en in een business context plaatsen.
 
 #### Feature 1: Web Technologies
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IbYOYQ-uwj4" frameborder="0" allowfullscreen></iframe>
@@ -118,7 +118,7 @@ Dit traject is gericht op studenten Techniek of met een bedrijfskundige / -econo
 
 
 ## Thema: Smart Business
-Dit traject is gericht op studenten Techniek of ICT die zich beperk of nooit verdiept hebben in de bedrijfskundige omgeving waarin ze straks zullen functioneren. Na afronding van dit traject kun je voor een opdrachtgever bedrijfsprocessen optimaliseren volgens Smart Industry criteria en de implicaties voor het gehele business model beschrijven.
+Dit traject is gericht op studenten Techniek of ICT die zich beperkt of nooit verdiept hebben in de bedrijfskundige omgeving waarin ze straks zullen functioneren. Na afronding van dit traject kun je voor een opdrachtgever bedrijfsprocessen optimaliseren volgens Smart Industry criteria en de implicaties voor het gehele business model beschrijven.
 
 #### Feature 1: De maatschappelijke en zakelijke uitdagingen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9hkHAc1nku4" frameborder="0" allowfullscreen></iframe><br>
