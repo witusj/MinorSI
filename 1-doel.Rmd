@@ -1,13 +1,14 @@
 ---
-title: "Doelen"
+title: "Inhoud minor"
 output: html_document
 ---
+> “Door de hele waardeketen zodanig in te richten dat de nieuwe technologieën optimaal kunnen bijdragen aan winsten op het gebied van efficiëntie en kwaliteit, ontstaat Smart Industry”
 
-Gedurende 19 à 20 weken ga je met partners uit het bedrijfsleven vraagstukken verzamelen op het gebied van Smart Industry en in teamverband bouwen aan oplossingen. Je gaat een brede blik ontwikkelen op de mogelijkheden en uitdagingen die Smart Industry biedt voor organisaties.
+Gedurende 19 à 20 weken verzamel je samen met partners uit het bedrijfsleven (internationals, maar ook MKB-bedrijven) vraagstukken op het gebied van Smart Industry. In teamverband werk je aan het bouwen van oplossingen. Je ontwikkelt een brede blik op de mogelijkheden en uitdagingen die Smart Industry biedt voor organisaties. 
 
-Je zult zoveel mogelijk leren via eigen observatie en ervaring (lees: DOEN). De minor is ontwikkeld in nauwe samenwerking met organisaties uit het werkveld (bedrijven en vakexperts). Deze partners zullen ook actief deelnemen aan de uitvoering via workshops, hackathons, gastcolleges, etc. op locatie. Aan het einde van de module kun je in samenwerking met professionals uit verschillende disciplines een SMART-oplossing vertalen, ontwikkelen en uitvoeren voor een organisatie.
+Je zult zo veel mogelijk kennis vergaren en inspiratie opdoen via eigen observatie en praktijkervaring. De minor is ontwikkeld in nauwe samenwerking met partners uit het werkveld. Deze partners zullen ook actief deelnemen aan de uitvoering via workshops, hackathons, gastcolleges et cetera op verscheidene locaties. Aan het einde van de minor kun je in samenwerking met professionals uit verschillende disciplines een SMART-oplossing vertalen, ontwikkelen en uitvoeren voor een organisatie. 
 
-We hebben bij de inrichting van de minor rekening gehouden met de verschillende achtergronden van de deelnemers en een zodanige structuur gekozen dat iedereen optimaal kan werken aan zijn of haar verbreding van kennis en vaardigheden. Het programma is opgedeeld in afzonderlijke trajecten met thema's die aansluiten bij je leerdoelen.
+Bij de inrichting van de minor is rekening gehouden met de verschillende achtergronden van de deelnemers en is een zodanig structuur gekozen dat iedere deelnemer optimaal kan werken aan zijn of haar kennisverbreding en -vaardigheden. Het programma is opgedeeld in afzonderlijke trajecten met thema’s die aansluiten bij je leerdoelen.
 
 # Trajecten {.tabset .tabset-fade}
 

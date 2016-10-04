@@ -3,7 +3,11 @@ title: "Welkom"
 output: html_document
 ---
 
-Technologieën op het gebied van Robotics, Data Analytics, Machine Learning, enz. zijn inmiddels volwassen geworden en grotendeels mainstream als het gaat om toepassing. De uitdaging voor de meeste organisaties ligt in de vertaling van de beloftes die deze innovaties bieden naar daadwerkelijke economische en maatschappelijke waarde. Door de hele waardeketen zodanig in te richten dat de nieuwe technologieën optimaal kunnen bijdragen aan winsten op het gebied van efficiëntie en kwaliteit, ontstaat **Smart Industry**.
+Ben jij klaar voor BV Nederland 4.0? Zie jij in dat de arbeidsmarkt momenteel gunstig is voor mensen met een technische opleiding? Of denk jij dat alleen de kennis van Whatsapp met een bedrijfskundige opleiding genoeg is? Think again! 
+
+De combinatie van business en ICT is de toekomst! Door nieuwe technologieën toe te passen zullen processen in de toekomst nog sneller verlopen en kun jij nóg sneller dan nu je bestelde pakketje ontvangen. 
+
+Wil jij de verbinding zijn tussen bedrijfsprocessen en technologie? Wil jij organisaties helpen bouwen aan de toekomst? Wil je meehelpen om van Nederland een winnend team te maken? [Schrijf je dan nu in](https://www.kiesopmaat.nl/modules/han/FEM/138101/) voor de minor Smart Industry. Met de minor Smart Industry zijn jij en jouw bedrijf voorbereid op de toekomst.
 
 <br>
 
@@ -23,8 +27,6 @@ Technologieën op het gebied van Robotics, Data Analytics, Machine Learning, enz
 <br>
 *Bron: [Actieagenda SMART INDUSTRY 2014](http://ec2-52-30-100-113.eu-west-1.compute.amazonaws.com/pluginfile.php/310/mod_resource/content/1/smart-industry-actieagenda-lr.pdf) - klik op de velden voor meer informatie.*
 <br>
-
-Door de overheid is een Actieagenda Smart Industry opgesteld. Doel van de agenda is het Nederlands bedrijfsleven te mobiliseren en tot de kopgroep in de wereld te laten horen op het gebied van slimme productie. Help mee van Nederland een winnend team te maken en [schrijf je in](https://www.kiesopmaat.nl/modules/han/FEM/138101/) voor de minor Smart Industry van de Hogeschool van Arnhem en Nijmegen!
 
 *Witek ten Hove*<br>
 *Coördinator Minor Smart Industry*<br>
