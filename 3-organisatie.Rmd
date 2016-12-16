@@ -2,7 +2,6 @@
 title: "Organisatie"
 output: html_document
 ---
-<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyAfbzoFaFxwmdLDpzlwjku5kCcSgPLb33I" async="" defer="defer" type="text/javascript"></script>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -18,6 +17,4 @@ M: +31 630179522<br>
 Locatie: `r paste0(adres)`
 <a href='https://goo.gl/maps/1dgHpkwo1M92'>Routebeschrijving</a>
 
-```{r Map1, echo=FALSE, results='asis', tidy=FALSE}
-plot(M1)
-```
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2456.9791542087487!2d5.94722441578771!3d51.989033579717066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c7a4659a9d2133%3A0xfa9fd43c8a3fc9dd!2sRuitenberglaan+31%2C+6826+CC+Arnhem!5e0!3m2!1sen!2snl!4v1481885300432" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

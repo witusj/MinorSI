@@ -19,13 +19,12 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
-<link rel="stylesheet"
-      href="site_libs/highlight/textmate.css"
-      type="text/css" />
-<script src="site_libs/highlight/highlight.js"></script>
 <style type="text/css">
   pre:not([class]) {
     background-color: white;
@@ -152,7 +151,6 @@ $(document).ready(function () {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
@@ -223,98 +221,13 @@ $(document).ready(function () {
 </div>
 
 
-<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyAfbzoFaFxwmdLDpzlwjku5kCcSgPLb33I" async="" defer="defer" type="text/javascript"></script>
-<p><img src="images/hogeschool-arnhem-en-nijmegen.jpg" alt="" /><br></p>
+<p><img src="images/hogeschool-arnhem-en-nijmegen.jpg" /><br></p>
 <div id="neem-voor-meer-informatie-contact-op-met" class="section level4">
 <h4>Neem voor meer informatie contact op met:</h4>
 <p>Witek ten Hove<br> @: <a href="mailto:witek.tenhove@han.nl">witek.tenhove@han.nl</a><br> M: +31 630179522<br></p>
-<p>Locatie: HAN, Ruitenberglaan 31, 6826 CC Arnhem <a href='https://goo.gl/maps/1dgHpkwo1M92'>Routebeschrijving</a></p>
-<!-- Map generated in R 3.3.0 by googleVis 0.5.10 package -->
-<!-- Tue Oct  4 23:31:58 2016 -->
-<!-- jsHeader -->
-<script type="text/javascript">
- 
-// jsData 
-function gvisDataMapID8eeeb3c527 () {
-var data = new google.visualization.DataTable();
-var datajson =
-[
- [
- "HAN, Ruitenberglaan 31, 6826 CC Arnhem",
-"<a href='https://goo.gl/maps/1dgHpkwo1M92'>Routebeschrijving</a>" 
-] 
-];
-data.addColumn('string','adres');
-data.addColumn('string','tooltip');
-data.addRows(datajson);
-return(data);
-}
- 
-// jsDrawChart
-function drawChartMapID8eeeb3c527() {
-var data = gvisDataMapID8eeeb3c527();
-var options = {};
-options["showTip"] = true;
-options["mapType"] = "normal";
-options["zoomLevel"] =     16;
-options["width"] =    100;
-options["height"] =    300;
-
-    var chart = new google.visualization.Map(
-    document.getElementById('MapID8eeeb3c527')
-    );
-    chart.draw(data,options);
-    
-
-}
-  
- 
-// jsDisplayChart
-(function() {
-var pkgs = window.__gvisPackages = window.__gvisPackages || [];
-var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
-var chartid = "map";
-  
-// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
-var i, newPackage = true;
-for (i = 0; newPackage && i < pkgs.length; i++) {
-if (pkgs[i] === chartid)
-newPackage = false;
-}
-if (newPackage)
-  pkgs.push(chartid);
-  
-// Add the drawChart function to the global list of callbacks
-callbacks.push(drawChartMapID8eeeb3c527);
-})();
-function displayChartMapID8eeeb3c527() {
-  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
-  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
-  window.clearTimeout(window.__gvisLoad);
-  // The timeout is set to 100 because otherwise the container div we are
-  // targeting might not be part of the document yet
-  window.__gvisLoad = setTimeout(function() {
-  var pkgCount = pkgs.length;
-  google.load("visualization", "1", { packages:pkgs, callback: function() {
-  if (pkgCount != pkgs.length) {
-  // Race condition where another setTimeout call snuck in after us; if
-  // that call added a package, we must not shift its callback
-  return;
-}
-while (callbacks.length > 0)
-callbacks.shift()();
-} });
-}, 100);
-}
- 
-// jsFooter
-</script>
-<!-- jsChart -->
-<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartMapID8eeeb3c527"></script>
-<!-- divChart -->
-<div id="MapID8eeeb3c527" style="width: 100; height: 300;">
-
-</div>
+<p>Locatie: Ruitenberglaan 31, 6826 CC Arnhem <a href='https://goo.gl/maps/1dgHpkwo1M92'>Routebeschrijving</a></p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2456.9791542087487!2d5.94722441578771!3d51.989033579717066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c7a4659a9d2133%3A0xfa9fd43c8a3fc9dd!2sRuitenberglaan+31%2C+6826+CC+Arnhem!5e0!3m2!1sen!2snl!4v1481885300432" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+</iframe>
 </div>
 
 
@@ -325,8 +238,11 @@ callbacks.shift()();
 <script>
 
 // add bootstrap table styles to pandoc tables
-$(document).ready(function () {
+function bootstrapStylePandocTables() {
   $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
 });
 
 

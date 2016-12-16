@@ -1,7 +1,7 @@
 library(googleVis)
 op <- options(gvis.plot.tag='chart')
 
-adres = "HAN, Ruitenberglaan 31, 6826 CC Arnhem"
+adres = "Ruitenberglaan 31, 6826 CC Arnhem"
 directions = "<a href='https://goo.gl/maps/1dgHpkwo1M92'>Routebeschrijving</a>"
 
 locaties <- data.frame(adres = "HAN, Ruitenberglaan 31, 6826 CC Arnhem",
