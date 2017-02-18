@@ -19,13 +19,12 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
-<link rel="stylesheet"
-      href="site_libs/highlight/textmate.css"
-      type="text/css" />
-<script src="site_libs/highlight/highlight.js"></script>
 <style type="text/css">
   pre:not([class]) {
     background-color: white;
@@ -152,7 +151,6 @@ $(document).ready(function () {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
@@ -209,6 +207,13 @@ $(document).ready(function () {
     Organisatie
   </a>
 </li>
+<li>
+  <a href="4-prijsvraag.html">
+    <span class="fa fa-trophy"></span>
+     
+    Prijsvraag
+  </a>
+</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -225,7 +230,7 @@ $(document).ready(function () {
 
 <p>Bedrijven zijn dringend op zoek naar Smart Industry talent. Met deze minor krijg jij volop de gelegenheid om bedrijven te tonen hoe Smart jij bent. Een online leeromgeving biedt jou de faciliteiten om kennis op te doen, te oefenen, de voortgang te volgen en te communiceren. Voor een heel groot gedeelte bepaal je dus zelf waar en wanneer je wilt studeren.</p>
 <p>Kennismaking met de praktijk van Smart Industry speelt een prominente rol binnen de minor. Opgedane kennis zal zoveel mogelijk getoetst worden in de praktijk. Het is van belang dat je goed in een team kan samenwerken, want meestal zullen opdrachten in een team uitgevoerd worden voor en bij opdrachtgevers uit het bedrijfsleven. Echter, er is genoeg ruimte om eigen interesses te volgen en om individueel aan vraagstukken te werken.<br></p>
-<p><img src="images/dev-team.jpg" alt="" /><br></p>
+<p><img src="images/dev-team.jpg" /><br></p>
 <p>Door een continuous assessment is in principe iedere interactie met een activiteit of met betrokkenen een toets- en leermoment. Er zullen geen vaste tentamenmomenten zijn; geleidelijk bouw je een portfolio van bewijzen op en op basis daarvan zal de organisatie van de minor bepalen in hoeverre je bepaalde competenties hebt ontwikkeld.</p>
 <p>Voldoe je aan de criteria van de minor, verdien je 30 EC. Voldoe je aan de criteria van het bedrijfsleven dan staat jou misschien wel een droombaan te wachten!</p>
 
@@ -237,8 +242,11 @@ $(document).ready(function () {
 <script>
 
 // add bootstrap table styles to pandoc tables
-$(document).ready(function () {
+function bootstrapStylePandocTables() {
   $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
 });
 
 

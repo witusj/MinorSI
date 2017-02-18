@@ -15,6 +15,9 @@ navbar:
     - text: "Organisatie"
       icon: fa-group
       href: 3-organisatie.html
+    - text: "Prijsvraag"
+      icon: fa-trophy
+      href: 4-prijsvraag.html
 output:
   html_document:
     theme: cerulean
