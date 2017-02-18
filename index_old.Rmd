@@ -1,0 +1,22 @@
+---
+title: "Welkom bij MSI!"
+output: html_document
+---
+
+Ben jij klaar voor BV Nederland 4.0? Zie jij dat de arbeidsmarkt momenteel gunstig is voor mensen met een technische opleiding? Of denk jij dat alleen de kennis van Whatsapp met een bedrijfskundige opleiding genoeg is? Think again! 
+
+De combinatie van business en ICT is de toekomst! Door nieuwe technologieën toe te passen zullen processen in de toekomst nog sneller verlopen en kun jij nóg sneller dan nu je bestelde pakketje ontvangen. 
+
+Wil jij de verbinding zijn tussen bedrijfsprocessen en technologie? Wil jij organisaties helpen bouwen aan de toekomst? Wil je meehelpen om van Nederland een winnend team te maken? [Schrijf je dan nu in](https://www.kiesopmaat.nl/modules/han/FEM/138101/) voor de Minor Smart Industry. Met deze minor zijn jij en jouw bedrijf voorbereid op de toekomst.
+<hr>
+
+###**NIEUW** - Doe de internationale versie van de minor in China!
+Ben je een avonturier? Heb je die VOC-mentaliteit? Deze ronde hebben we de mogelijk om een groep studenten de Minor Smart Industry bij onze partneruniversiteit <a href="http://www.checkitcenter.com/" target = "_blank">Xiamen University</a> te laten volgen. Geef bij je aanmelding aan dat je graag van dit aanbod gebruik wilt maken en bij voldoende interesse, gaan wij dit voor je verzorgen.
+
+<br>
+
+<video width="640" height="480" controls>
+  <source src="videos/CHECK-IT_teaser_3.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
