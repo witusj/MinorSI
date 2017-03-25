@@ -1,7 +1,7 @@
 name: "HAN Minor Smart Industry"
 output_dir: "."
 navbar:
-  title: "HAN Minor Smart Industry"
+  title: <p><img src="images/logo_han.gif" alt="logo" height="40" width="70"><img src="images/msi-sample-color.jpeg" alt="logo" height="60" width="112"></p>
   right:
     - text: "Welkom"
       icon: fa-smile-o
@@ -22,4 +22,5 @@ output:
   html_document:
     theme: cerulean
     highlight: textmate
+    includes:
     
